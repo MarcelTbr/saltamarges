@@ -1,2 +1,4 @@
 # saltamarges
-Website for Girona/Barcelona based independent record label
+Website text backup for Girona/Barcelona based independent record label.
+
+https://saltamarges.cat
